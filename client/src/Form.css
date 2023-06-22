@@ -1,0 +1,31 @@
+.container-form{
+    width: 65vw;
+    align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        display: flex;
+        border-radius: 20px;
+        align-items: center;
+        text-align: center;
+        border: 1px solid gray;
+        margin: 30px;
+        background-color: #0000007d;
+   
+}
+.ml-2{
+    border-radius: 10px;
+}
+.input{
+    border-radius: 10px;
+    
+}
+.fa-code{
+    margin: 10px;
+}
+.text-white{
+    border-radius: 20px;
+    
+}
+.sr-logo{
+    margin: 20px;
+}
